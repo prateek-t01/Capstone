@@ -1,0 +1,11 @@
+Review 2
+
+1. a. Problem Statement -- Ranjani
+   b. Market Trends and research -- venkat
+   c. Measurable and quantifiable benefits and outcomes
+2. Model Selection and Reason -- venkat
+3. Feature Selection and Reasons
+4. Quantifiable measures and KPIs - Mentioned Separately -- Ranjani
+5. Separate CSV for transaction and Master Data?? google it -- Rituraj
+Star schema and snowflake schema - extra info
+6. EDA and Explanation

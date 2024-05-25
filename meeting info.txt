@@ -1,0 +1,6 @@
+usual car abandonment rate...trying to reduce it by some % after implementing model
+
+find usual revenue according to industry trends.
+
+show some marketing campaign to those who did not generate revenue
+and find the new cart abandonment rate
